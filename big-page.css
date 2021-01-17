@@ -1,0 +1,21 @@
+.big-container {
+  width: 93%;
+  margin: 3rem auto 5rem auto;
+}
+
+.top-big-container {
+  width: 100%;
+}
+
+.image-container-big {
+  width: 85vw;
+  height: 30vw;
+}
+
+.p-2 {
+  margin-top: 0;
+}
+
+.bottom-big-container {
+  width: 85vw;
+}
